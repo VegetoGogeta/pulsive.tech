@@ -7,7 +7,7 @@
 
 #include "hooks.h"
 #include "interfaces.h"
-#include "cfg_file.h"
+#include "cfg_file.hpp"
 
 
 template <typename T>
