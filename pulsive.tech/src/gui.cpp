@@ -5,7 +5,7 @@
 #include "../ext/imgui/imgui_impl_dx9.h"
 
 #include <stdexcept>
-#include "cfg_file.h"
+#include "cfg_file.hpp"
 
 
 
